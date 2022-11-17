@@ -1,0 +1,15 @@
+D:\HW_Seminar_6\Task_43\bin\Debug\net6.0\Task_43.exe
+D:\HW_Seminar_6\Task_43\bin\Debug\net6.0\Task_43.deps.json
+D:\HW_Seminar_6\Task_43\bin\Debug\net6.0\Task_43.runtimeconfig.json
+D:\HW_Seminar_6\Task_43\bin\Debug\net6.0\Task_43.dll
+D:\HW_Seminar_6\Task_43\bin\Debug\net6.0\Task_43.pdb
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\Task_43.csproj.AssemblyReference.cache
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\Task_43.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\Task_43.AssemblyInfoInputs.cache
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\Task_43.AssemblyInfo.cs
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\Task_43.csproj.CoreCompileInputs.cache
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\Task_43.dll
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\refint\Task_43.dll
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\Task_43.pdb
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\Task_43.genruntimeconfig.cache
+D:\HW_Seminar_6\Task_43\obj\Debug\net6.0\ref\Task_43.dll
